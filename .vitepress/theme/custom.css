@@ -1,0 +1,33 @@
+:root {
+  --vp-c-brand-1: #2b86ef;
+  --vp-c-brand-2: #3691ff;
+  --vp-c-brand-3: #3364f8;
+  --vp-c-brand-4: #252fff;
+
+  --vp-c-primary: #33adea;
+  --vp-c-secondary: #3691ff;
+  --vp-c-accent: #3364f8;
+  --vp-c-highlight: #252fff;
+
+  --vp-c-text: #ffffff;
+  --vp-c-background: #0a0a23;
+  --vp-c-border: #2e2e56;
+  --vp-c-shadow: rgba(37, 165, 230, 0.4);
+}
+
+.dark {
+  --vp-c-brand-1: #2b86ef;
+  --vp-c-brand-2: #3691ff;
+  --vp-c-brand-3: #3364f8;
+  --vp-c-brand-4: #252fff;
+
+  --vp-c-primary: #33adea;
+  --vp-c-secondary: #3691ff;
+  --vp-c-accent: #3364f8;
+  --vp-c-highlight: #252fff;
+
+  --vp-c-text: #ffffff;
+  --vp-c-background: #0a0a23;
+  --vp-c-border: #2e2e56;
+  --vp-c-shadow: rgba(37, 165, 230, 0.4);
+}
