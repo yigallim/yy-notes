@@ -1,8 +1,12 @@
+body {
+  overflow-y: scroll;
+}
+
 :root {
   --vp-c-brand-1: #2b86ef;
   --vp-c-brand-2: #3691ff;
-  --vp-c-brand-3: #3364f8;
-  --vp-c-brand-4: #252fff;
+  --vp-c-brand-3: #336bf8;
+  --vp-c-brand-4: #2537ff;
 
   --vp-c-primary: #33adea;
   --vp-c-secondary: #3691ff;
